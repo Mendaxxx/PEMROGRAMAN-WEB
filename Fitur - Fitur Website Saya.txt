@@ -1,0 +1,12 @@
+Selamat Pagi/siang/sore Pa Hendi berikut Fitur - Fitur yang ada di website saya :
+
+
+Halaman Utama : 
+
+1. Home ( Output nya dari database )
+2. Portofolio ( Output nya dari database )
+3. Services ( Output nya dari database, Berbeda resolusi layar membuat kata2 nya aga berantakan. saya disini menggunakan 1440x900 zoom google 100% )
+4. About ( Output nya dari database )
+
+
+Terima Kasih.
